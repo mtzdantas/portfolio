@@ -38,6 +38,7 @@
 * ## Python
   ### [**Viagens Governo Federal - 2024**](https://github.com/mtzdantas/viagens_gov2024)
   * <p>Projeto com finalidade de apresentar e analisar dados referentes a diárias e passagens de viagens governamentais a trabalho realizadas por servidores públicos do Poder Executivo Federal.</p>
+  * <p>Tecnologias usadas: <a href="https://www.python.org" target="_blank">Python</a>, <a href="https://pandas.pydata.org/" target="_blank">Pandas</a>, <a href="https://matplotlib.org/" target="_blank">Matplotlib</a></p>
   * <a href="https://github.com/mtzdantas/viagens_gov2024" target="_blank">Acesse o repositório para mais informações.</a>
   ---
   
