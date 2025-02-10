@@ -1,24 +1,13 @@
 **[EM CONSTRUÇÃO]**
+
 ## Quem é Mateus?
 <img src="assets/perfil.png" width="180" align="left"> 
 
 <table align="right">
   <tr>
     <th>
-      - Sumário -
+      Tecnologias
     </th>
-  </tr>
-
-  <tr>
-    <td>
-      <a href="#entre-em-contato">Contato</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <a href="#meus-projetos-para-análise-e-ciência-de-dados">Projetos</a>
-    </td>
   </tr>
   
   <tr>
