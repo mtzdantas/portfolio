@@ -6,10 +6,19 @@
 <p>Olá, me chamo Mateus Dantas! Tenho experiência com Python desde 2023 e, em 2024, direcionei meus estudos para a Ciência de Dados. Desde então, venho aprofundando meus conhecimentos e desenvolvendo diversas habilidades na área. Com Python, sou capaz de manipular, analisar e visualizar dados para extrair insights e resolver problemas. Além disso, tenho experiência com SQL, versionamento de código com Git e sólidos conhecimentos em Probabilidade e Estatística, adquiridos ao longo da minha graduação em Sistemas de Informação.</p>
 <br>
 
+## Entre em contato!
+<p>Se deseja entrar em contato comigo, peço que acesse algum dos seguintes links:</p>
+
+* [LinkedIn](https://www.linkedin.com/in/mtzdantas/)
+* [Gmail](mailto:mtzdantas@gmail.com)
+* [Github](https://github.com/mtzdantas)
+
+## Meus projetos para Análise e Ciência de Dados
+
 <table>
   <tr>
     <th>
-      Meus projetos
+      Tecnologias
     </th>
   </tr>
   
@@ -25,15 +34,6 @@
     </td>
   </tr>
 </table>
-
-## Entre em contato!
-<p>Se deseja entrar em contato comigo, peço que acesse algum dos seguintes links:</p>
-
-* [LinkedIn](https://www.linkedin.com/in/mtzdantas/)
-* [Gmail](mailto:mtzdantas@gmail.com)
-* [Github](https://github.com/mtzdantas)
-
-## Meus projetos para Análise e Ciência de Dados
 
 * ## Python
   ### [**Viagens Governo Federal - 2024**](https://github.com/mtzdantas/viagens_gov2024)
