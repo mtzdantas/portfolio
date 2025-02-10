@@ -1,4 +1,5 @@
-[EM CONSTRUÇÃO] 
+**[EM CONSTRUÇÃO]**
+
 ### Quem é Mateus?
 ---
 <img src="assets/perfil.png" width="180" align="left"> 
@@ -10,6 +11,11 @@
 <p>Se deseja entrar em contato comigo, peço que acesse algum dos seguintes links:</p>
 
 * [LinkedIn](https://www.linkedin.com/in/mtzdantas/)
-* [Instagram](https://www.instagram.com/mtzdantas)
 * [Gmail](mailto:mtzdantas@gmail.com)
 * [Github](https://github.com/mtzdantas)
+
+### Meus projetos para Análise e Ciência de Dados
+---
+
+
+
