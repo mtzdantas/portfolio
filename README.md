@@ -1,12 +1,12 @@
 **[EM CONSTRUÇÃO]**
 
 ## Quem é Mateus?
-<img src="assets/perfil.png" width="180" align="left"> 
+<img src="assets/perfil.png" width="160" align="left"> 
 
 <table align="right">
   <tr>
     <th>
-      Tecnologias
+      Projetos
     </th>
   </tr>
   
