@@ -36,6 +36,11 @@
 </table>
 
 * ## Python
+  ### [**Empresa de delivery**](https://github.com/mtzdantas/delivery_analysis)
+  * <p>Nesse projeto, trabalhamos em uma empresa de delivery, em um time de dados centralizado que atende a diversas áreas e recebemos algumas demandas que serão respondidas por meio da Análise dos dados.</p>
+  * <p>Tecnologias usadas: Python, Pandas e Matplotlib</p>
+  * <a href="https://github.com/mtzdantas/delivery_analysis" target="_blank">Acesse o repositório para mais informações.</a>
+  ---
   ### [**Viagens Governo Federal - 2024**](https://github.com/mtzdantas/viagens_gov2024)
   * <p>Projeto com finalidade de apresentar e analisar dados referentes a diárias e passagens de viagens governamentais a trabalho realizadas por servidores públicos do Poder Executivo Federal.</p>
   * <p>Tecnologias usadas: Python, Pandas e Matplotlib</p>
