@@ -1,5 +1,3 @@
-**[EM CONSTRUÇÃO]**
-
 ## Quem é Mateus?
 <img src="assets/perfil.png" width="180" align="left"> 
 
